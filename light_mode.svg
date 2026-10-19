@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,'Courier New','DejaVu Sans Mono',monospace" width="985px" height="560px" font-size="15px">
+<style>
+.ascii{fill:#24292f} .title{fill:#1f2328;font-weight:bold} .key{fill:#953800} .value{fill:#0a3069} .cc{fill:#c2cfde} .add{fill:#1a7f37} .del{fill:#cf222e} text,tspan{white-space:pre}
+</style>
+<rect width="985px" height="560px" fill="#f6f8fa" rx="15"/>
+<text x="6" y="17" class="ascii" font-size="8px" xml:space="preserve">
+<tspan x="6" y="17.0"></tspan>
+<tspan x="6" y="26.4"></tspan>
+<tspan x="6" y="35.8"></tspan>
+<tspan x="6" y="45.2">                                                  .''.</tspan>
+<tspan x="6" y="54.6">                                               .`:==*=++;-''.</tspan>
+<tspan x="6" y="64.0">                                            '++++=+============;.</tspan>
+<tspan x="6" y="73.4">                                          ';;;+++++=++==+======*+'</tspan>
+<tspan x="6" y="82.8">                                       .':;+=xX#Xxxx*===+++++=====;.</tspan>
+<tspan x="6" y="92.2">                                      `:=X%@@%%%#####XXxxxx***=+=+++'</tspan>
+<tspan x="6" y="101.6">                                   `-;+X###XXXXXX#####XXXXXXXXXx*=++++:.</tspan>
+<tspan x="6" y="111.0">                                   -;;****xXX##########XXXxxXXXXXX*+++=;.</tspan>
+<tspan x="6" y="120.4">                                  `::+=+=*xX####%%%%%%%%%#XXXXXXXXXx++++:</tspan>
+<tspan x="6" y="129.8">                                 .--;;+==*xXX##%%%%%%%%%%%##XXXXxxXX=+++:</tspan>
+<tspan x="6" y="139.2">                                 `-::;+==*xX###%%%%%%%@%####X#XxxXxx*;;;;`</tspan>
+<tspan x="6" y="148.6">                                 `-:;+===*xX#%%%#%##%%%%%###XXxxxx**=+;;:.</tspan>
+<tspan x="6" y="158.0">                                 '-:;++===*X##X#X##%%%%%%##Xxxxxx**==+;;:.</tspan>
+<tspan x="6" y="167.4">                                 '::;+=*=+::;==*x*x**xx*xxXxxxx***===;;;-</tspan>
+<tspan x="6" y="176.8">                                .':-:::+xx=+;-:+xX=;---:=x#X******=++;;-.</tspan>
+<tspan x="6" y="186.2">                                `:::::+=*xXX*++x%Xxxx=::+*=++=***===+;:`</tspan>
+<tspan x="6" y="195.6">                               .';+==**xXX#X+;*X#XXx#X***xx*=+=*===++;'</tspan>
+<tspan x="6" y="205.0">                               .';+=xxX####=+=X#%XXX%%%#%##X#Xx*=+++=x;</tspan>
+<tspan x="6" y="214.4">                                ':++*X#%%#++=*#%%%#X###%%%%%##x*=++=#x:.</tspan>
+<tspan x="6" y="223.8">                                .-;+*xXXX;:--:=x*+;+X#*x#%@%Xx*=++*=*X+.</tspan>
+<tspan x="6" y="233.2">                                .-:;=*=*======*X%%%%%%x+*XXX***==+x%#X'</tspan>
+<tspan x="6" y="242.6">                                 ':;=x*=;+*xxX##%%#####X;*x*==*=+=XXx-</tspan>
+<tspan x="6" y="252.0">                                 `-;=xXX+:xxxXX#X#xx*==Xx**=*==+++*=`</tspan>
+<tspan x="6" y="261.4">                                  ':;x=X=*XX#@@@%%%%#xxxxx*====:`</tspan>
+<tspan x="6" y="270.8">                                   ':=*=+;=*X%#%%%%#%%%X***==+:.</tspan>
+<tspan x="6" y="280.2">                                   .-:===+;++=**xXX#%##Xx==+++'</tspan>
+<tspan x="6" y="289.6">                                    ':;=*xxxXXX##%%%%%#x==++*=</tspan>
+<tspan x="6" y="299.0">                              .`-;;:--:;==xX#%#%@@@%#X+=+;+*x+</tspan>
+<tspan x="6" y="308.4">                         .`'----;;:;:---;++=xx**xx=+=+++=*XXX+`.</tspan>
+<tspan x="6" y="317.8">                  ..`''-:;+++:---:;:::----::;+++;;;:;+=*X###xxXx=:-</tspan>
+<tspan x="6" y="327.2">             ..`'--;+=xx*++++*=--:::::::--------:;+*xX####XXxx#%%xx=;.</tspan>
+<tspan x="6" y="336.6">        .``'--:;+*xxxx++x+;++===:-:::::::---:;;*xXXXXX###XXXXx#%@x**x+;:`</tspan>
+<tspan x="6" y="346.0">     `'-::::;*XX##X#X=*#xx+===*=**=++===+******==*xXXXXXXXXXXX#%xxxxx==++:-'.</tspan>
+<tspan x="6" y="355.4">   '-:::::;*xX####%##**=++;==+X*=****xXXx*xXXx*****xXXXxxX####%X*xxxx=;:;==;x*;-``.</tspan>
+<tspan x="6" y="364.8"> `;:-::::+X#xxx######===++;*;===x==******==xX#Xx***xXXxx#%%%%#*=***+X*==**==xxXXx=::</tspan>
+<tspan x="6" y="374.2">;+++;:;:+*#%XX*X%%%##====++;;;;=******==+====*****xxXxxxXXx*=====*x+====*=xxX#X*=xX=</tspan>
+<tspan x="6" y="383.6">+++=;;;:*xX%@*#x#%%##x**=++++++xxxxxxxxxx*=+========+++;;;++++=****;;;;+x=%X%#*=xX%X</tspan>
+<tspan x="6" y="393.0">=+;*=+*=#*X%@*@X#%%##X+=**+++*=*XXXxxxXXxXX#=x*+=+++++++****xxxxxxx**=+++=x+X*=x#%%x</tspan>
+<tspan x="6" y="402.4">+=;**;*=xx#x%*@#%%##Xx*=+;=**==*XXXXXXXxXX##x*=***xXxXXx###XXXxxxx#*=+=++++;x*X%X@@=</tspan>
+<tspan x="6" y="411.8">;+:**+==XX#%xX@@%%#XXXx===++=+=XXXXXXXXXX###x*****#x*@##%##XXXXX*=*=;==;;+;+xX##X@%=</tspan>
+<tspan x="6" y="421.2">;+:*=+*;#XX#+@@@@%XxXx=x++==**=*xxX#XXXXx#%#xxx**=****=X%#####%#Xxx*;;:+==*=###x#@X*</tspan>
+<tspan x="6" y="430.6">;;:==+X:XXxX+@@@%Xxxx=XX**=====xxx###xX#x#%%xxx=******=%%######%%#XX*++;:;=xXX#x#@x*</tspan>
+<tspan x="6" y="440.0">:;-==;#:X%x=x#@%####*x%##**x*==xxx#%#XXXxx%%x=x*x******%##XXX##%%#X+**;::+=x###x#%**</tspan>
+<tspan x="6" y="449.4">;:-=*-X=X#X+#####XXXx##=*===*X*Xx#%%XXXX**%#x=*****xxxx%##XXXXX###*xX##x*;:=x##x##=*</tspan>
+<tspan x="6" y="458.8">::-=x-*x**X=###XX##X%+`';*#xx#%%x%%%###X**#%#**=xxx***x###XXXXXXXX=##x*X*x++==xx##*=</tspan>
+<tspan x="6" y="468.2">:--=X:;Xxx=x##%%%#%#x=;-'x%++#=X%#%%#%#x*=x@X#+*==*==x#####XXxx*xx=#X#%#x*x=x=**%#x=</tspan>
+<tspan x="6" y="477.6">;--=#+-=#X:#X#%%####*=*===+:'==%#%%####X*=*#+#;;==*xx=#######Xx**x###%%%#%#x#Xx=##x+</tspan>
+<tspan x="6" y="487.0">;:-+Xx-+=*;XXxX#####X*=;;+++*%*%########*=x**x*:+=+==*#XXX#X#XX**%#X@####%=xxx**##*=</tspan>
+<tspan x="6" y="496.4">+:-;xX;++;=XXxxXXxX##+++==+++**#X####%#Xx=*+#xx++*=++*#XXXXXX#XXX#%X%%#X#%x=*xxxX#X*</tspan>
+<tspan x="6" y="505.8">++-:xX=:=;=xXXxxxxxx*=+++;=====XXXXXX#Xx*=*;#;=;:;+*=xXXxXXXXXXXX#@XX%XXX#xx;XxXx#X=</tspan>
+<tspan x="6" y="515.2">==;-=#=-+;;x*XXxxXxxxx===*++++*XXXXXXXxx*=*;x++=x;=*=xX#xXxx*xXXX%####XX##x#+x=x=*x:</tspan>
+<tspan x="6" y="524.6">===-+#*;+;:+**xXXXXXxx*+=+++**XXXxxxxXXx*=*;*++*+:*++=**xxxx*++*x##xX##X#*XXX*+*=*=-</tspan>
+<tspan x="6" y="534.0">==*;:x++x+--==**xxXX=;X*x*==++x#xXXx*xxx*==:+*;+=;;;+***xX*==*=+;+=#XX#X=*x***=;;=::</tspan>
+<tspan x="6" y="543.4">=**+-+xxX=:-:=====**. ;x**xx++*X#XxxxXx*==x*==;;+;::*@@@*xxxXxXx+::;;+;==xxx==;:+:-:</tspan>
+<tspan x="6" y="552.8">====:+=@x=---+===*=*` ':;=;;;..*#; `xX; -+x*+===;;::+*#%=x+`:##*xxx=;==;;++==++;;:::</tspan>
+</text>
+<text x="432" y="62" fill="#1f2328" xml:space="preserve">
+<tspan x="432" y="62"><tspan class="title">robby@morogo </tspan><tspan class="cc">--------------------------------------------</tspan></tspan>
+<tspan x="432" y="82"><tspan class="key">Role</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Full-Stack Web Developer</tspan></tspan>
+<tspan x="432" y="102"><tspan class="key">Business</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">ZOOM Photography &amp; Videography</tspan></tspan>
+<tspan x="432" y="122"><tspan class="key">Location</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Eldoret, Kenya</tspan></tspan>
+<tspan x="432" y="142"><tspan id="line_age"><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ......................................... </tspan><tspan class="value" id="age_data">0 years</tspan></tspan></tspan>
+<tspan x="432" y="182"><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">JavaScript, Node.js, HTML, CSS</tspan></tspan>
+<tspan x="432" y="202"><tspan class="key">Databases</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">MongoDB</tspan></tspan>
+<tspan x="432" y="222"><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">Express</tspan></tspan>
+<tspan x="432" y="242"><tspan class="key">Focus</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Websites &amp; apps for local businesses</tspan></tspan>
+<tspan x="432" y="282"><tspan class="key">Hobbies.Creative</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Photography, Videography</tspan></tspan>
+<tspan x="432" y="322"><tspan class="title">- Contact </tspan><tspan class="cc">-----------------------------------------------</tspan></tspan>
+<tspan x="432" y="342"><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">morogoderrick-cmd</tspan></tspan>
+<tspan x="432" y="382"><tspan class="title">- GitHub Stats </tspan><tspan class="cc">------------------------------------------</tspan></tspan>
+<tspan x="432" y="402"><tspan id="line_repo"><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ........ </tspan><tspan class="value" id="repo_data">8</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">8</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ...... </tspan><tspan class="value" id="star_data">0</tspan></tspan></tspan>
+<tspan x="432" y="422"><tspan id="line_commit"><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ...................... </tspan><tspan class="value" id="commit_data">0</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ...... </tspan><tspan class="value" id="follower_data">0</tspan></tspan></tspan>
+<tspan x="432" y="442"><tspan id="line_loc"><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"> ...... </tspan><tspan class="value" id="loc_data">0</tspan> (<tspan class="add" id="loc_add">0</tspan><tspan class="add">++</tspan>,<tspan class="del" id="loc_del">0</tspan><tspan class="del">--</tspan>)</tspan></tspan>
+</text></svg>
