@@ -6,4 +6,4 @@
   </picture>
 </a>
 
-<sub>Card layout inspired by [Andrew6rant](https://github.com/Andrew6rant)'s profile README.</sub>
+
