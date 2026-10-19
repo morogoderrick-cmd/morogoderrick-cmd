@@ -8,7 +8,7 @@ from dateutil import relativedelta
 # ---------------------------------------------------------------- CONFIG
 # "Uptime" counts from this date. >>> CHANGE THIS to your birth date (or any
 # "since" date you prefer, e.g. when you started coding). <<<
-UPTIME_SINCE = datetime.date(2000, 1, 1)
+UPTIME_SINCE = datetime.date(2004, 2, 28)
 LINE_WIDTH   = 57            # must match W in tools/build_svg.py
 SVG_FILES    = ["dark_mode.svg", "light_mode.svg"]
 CACHE_FILE   = "cache/loc.json"
