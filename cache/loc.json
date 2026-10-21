@@ -55,8 +55,13 @@
   "del": 0
  },
  "morogoderrick-cmd/morogoderrick-cmd": {
-  "commits": 5,
-  "add": 395,
-  "del": 3
+  "commits": 11,
+  "add": 656,
+  "del": 263
+ },
+ "morogoderrick-cmd/morogoderrick-cmd.github.io": {
+  "commits": 4,
+  "add": 2556,
+  "del": 5
  }
 }
