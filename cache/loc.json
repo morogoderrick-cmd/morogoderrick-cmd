@@ -4,9 +4,59 @@
   "add": 379,
   "del": 0
  },
-ck-cmd/zoom-landing_Eldoret": {
+ "morogoderrick-cmd/rweffs-birthday-site": {
+  "commits": 1,
+  "add": 2,
+  "del": 0
+ },
+ "morogoderrick-cmd/Rwefs-birthday-site": {
+  "commits": 1,
+  "add": 2,
+  "del": 0
+ },
+ "morogoderrick-cmd/chumba-s_website": {
+  "commits": 2,
+  "add": 545,
+  "del": 0
+ },
+ "morogoderrick-cmd/Zoom-photography": {
+  "commits": 18,
+  "add": 7981,
+  "del": 3407
+ },
+ "morogoderrick-cmd/nexus-backend": {
+  "commits": 4,
+  "add": 4403,
+  "del": 3
+ },
+ "morogoderrick-cmd/nexus-store": {
+  "commits": 14,
+  "add": 7308,
+  "del": 5917
+ },
+ "morogoderrick-cmd/tally-web": {
+  "commits": 1,
+  "add": 786,
+  "del": 0
+ },
+ "morogoderrick-cmd/zoom-landing_Eldoret": {
   "commits": 1,
   "add": 134,
   "del": 0
  },
- 
+ "morogoderrick-cmd/residia-website": {
+  "commits": 3,
+  "add": 2308,
+  "del": 3
+ },
+ "morogoderrick-cmd/residia-backend": {
+  "commits": 0,
+  "add": 0,
+  "del": 0
+ },
+ "morogoderrick-cmd/morogoderrick-cmd": {
+  "commits": 5,
+  "add": 395,
+  "del": 3
+ }
+}
