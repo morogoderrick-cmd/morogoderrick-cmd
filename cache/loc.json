@@ -20,9 +20,9 @@
   "del": 0
  },
  "morogoderrick-cmd/Zoom-photography": {
-  "commits": 25,
-  "add": 9827,
-  "del": 4951
+  "commits": 26,
+  "add": 9849,
+  "del": 4958
  },
  "morogoderrick-cmd/nexus-backend": {
   "commits": 4,
@@ -70,8 +70,8 @@
   "del": 0
  },
  "morogoderrick-cmd/My-potfolio": {
-  "commits": 2,
-  "add": 796,
-  "del": 17
+  "commits": 4,
+  "add": 1575,
+  "del": 795
  }
 }
