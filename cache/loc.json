@@ -30,9 +30,9 @@
   "del": 3
  },
  "morogoderrick-cmd/nexus-store": {
-  "commits": 14,
-  "add": 7308,
-  "del": 5917
+  "commits": 21,
+  "add": 8919,
+  "del": 7235
  },
  "morogoderrick-cmd/tally-web": {
   "commits": 1,
@@ -75,8 +75,8 @@
   "del": 795
  },
  "morogoderrick-cmd/my-dashboard": {
-  "commits": 57,
-  "add": 3106,
+  "commits": 59,
+  "add": 3134,
   "del": 653
  },
  "morogoderrick-cmd/Alvey-Photography": {
