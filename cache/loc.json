@@ -30,7 +30,7 @@
   "del": 3
  },
  "morogoderrick-cmd/nexus-store": {
-  "commits": 28,
+  "commits": 30,
   "add": 11218,
   "del": 9045
  },
@@ -40,8 +40,8 @@
   "del": 0
  },
  "morogoderrick-cmd/zoom-landing_Eldoret": {
-  "commits": 1,
-  "add": 134,
+  "commits": 2,
+  "add": 135,
   "del": 0
  },
  "morogoderrick-cmd/residia-website": {
@@ -75,9 +75,9 @@
   "del": 795
  },
  "morogoderrick-cmd/my-dashboard": {
-  "commits": 61,
-  "add": 3186,
-  "del": 676
+  "commits": 63,
+  "add": 3672,
+  "del": 1918
  },
  "morogoderrick-cmd/Alvey-Photography": {
   "commits": 4,
