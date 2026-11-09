@@ -30,7 +30,7 @@
   "del": 3
  },
  "morogoderrick-cmd/nexus-store": {
-  "commits": 27,
+  "commits": 28,
   "add": 11218,
   "del": 9045
  },
@@ -90,9 +90,9 @@
   "del": 6
  },
  "morogoderrick-cmd/Vault": {
-  "commits": 4,
-  "add": 362,
-  "del": 5
+  "commits": 6,
+  "add": 472,
+  "del": 24
  },
  "morogoderrick-cmd/lumiere-backend": {
   "commits": 12,
