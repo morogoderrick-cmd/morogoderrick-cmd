@@ -30,8 +30,8 @@
   "del": 3
  },
  "morogoderrick-cmd/nexus-store": {
-  "commits": 32,
-  "add": 11220,
+  "commits": 33,
+  "add": 11221,
   "del": 9045
  },
  "morogoderrick-cmd/tally-web": {
@@ -65,9 +65,9 @@
   "del": 5
  },
  "morogoderrick-cmd/prime-kicks": {
-  "commits": 11,
-  "add": 6457,
-  "del": 0
+  "commits": 15,
+  "add": 6462,
+  "del": 2
  },
  "morogoderrick-cmd/My-potfolio": {
   "commits": 4,
